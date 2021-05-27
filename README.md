@@ -1,1 +1,12 @@
 # twas-jira
+Integration between Tenable.io WAS and JIRA
+
+# Required variables
+JIRA_API_KEY
+JIRA_DOMAIN
+JIRA_PROJECT
+JIRA_USERNAME
+TIO_ACCESS_KEY
+TIO_SECRET_KEY
+TIO_WAS_CONFIG_ID
+MIN_REPORTING_CVSS
